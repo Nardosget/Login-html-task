@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>login</title>
+
+</head>
+
+<body>
+  <h1>login</h1>
+  <P1>Username:</P1><input>
+  <P2>Password:</P2><input type="password">
+<button>login</button>
+</body>
+
+</html>
